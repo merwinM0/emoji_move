@@ -1,0 +1,18 @@
+{
+  "name": "emoji_move",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "s": "bun run ./src/index.html"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "openai": "^6.7.0"
+  }
+}

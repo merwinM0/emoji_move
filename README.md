@@ -12,7 +12,6 @@ An interactive emoji application that uses HTML5 Canvas to draw emojis that defo
 - **重置功能**: 一键重置表情到中心位置。
 
 ## 安装 (Installation)
-
 下载依赖 (To install dependencies):
 
 ```bash

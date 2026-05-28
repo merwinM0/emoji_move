@@ -4,6 +4,8 @@
 
 An interactive emoji application that uses HTML5 Canvas to draw emojis that deform based on mouse movement. Supports multiple expression changes and manual position control.
 
+![](emoji.png)
+
 ## 功能特性 (Features)
 
 - **表情切换**: 通过按钮或 API 设置不同表情（happy, sad, nervous, default, shock）。
